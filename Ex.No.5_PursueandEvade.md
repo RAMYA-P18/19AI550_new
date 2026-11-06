@@ -110,6 +110,7 @@ public class Pursuer: MonoBehaviour
 
 
 
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/240ebf79-20fc-4976-9456-45d1638647cd" />
 
 
 
